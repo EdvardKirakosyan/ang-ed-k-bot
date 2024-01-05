@@ -1,7 +1,7 @@
 import { Telegraf, Markup } from "telegraf"
 
 const token = "6801500269:AAHiSVv0nRxY-cGunncIGP1Sh_RAfmK_p90"
-const webAppUrl = "https://edwardkirakosyan.com/"
+const webAppUrl = "https://app-for-bot.web.app/"
 
 const bot = new Telegraf(token)
 
